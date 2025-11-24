@@ -10,8 +10,7 @@
 ---
 
 ## 💡 About Me
-- 🔭 Currently working on **Gym Application (FIT Sync)**
-- 🌱 Learning **Ruby on Rails**
+- 🌱 Currently learning **Front End Development**
 - 🤝 Open to collaborating & learning new programming languages
 - 💬 Ask me anything! I’ll do my best to help
 - 📫 Reach me at **lenardperegilx@gmail.com**
