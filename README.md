@@ -14,16 +14,12 @@
 
 ## 💫 About Me
 
-```javascript
-const enma = {
-    location: "Philippines 🇵🇭",
-    currentFocus: "Front End Development",
-    learning: ["React", "Vue.js", "Advanced CSS"],
-    openTo: ["Collaboration", "New Programming Languages", "Exciting Projects"],
-    askMeAbout: ["Web Dev", "Mobile Dev", "Game Dev", "Tech in General"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
+**Location:** Philippines 🇵🇭  
+**Current Focus:** Front End Development  
+**Learning:** React, Vue.js, Advanced CSS  
+**Open To:** Collaboration, New Programming Languages, Exciting Projects  
+**Ask Me About:** Web Dev, Mobile Dev, Game Dev, Tech in General  
+**Fun Fact:** I debug with console.log and I'm not ashamed! 😄
 
 🌱 **Currently Exploring:** Modern Front End Frameworks & UI/UX Design  
 🤝 **Looking to Collaborate:** Open source projects and innovative ideas  
@@ -82,7 +78,7 @@ const enma = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enmamaarin&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=enmamaarin&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=enmamaarin&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
 
@@ -115,16 +111,6 @@ const enma = {
 <img src="https://64.media.tumblr.com/936e1171cc32069772bf59c71e9bda88/tumblr_inline_pb4ewraxKd1r4jlh9_500.gif" height="120" alt="chibi typing"/>
 
 ### ✨ *"Code is poetry written in logic"* ✨
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/enmamaarin/enmamaarin/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
