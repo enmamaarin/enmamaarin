@@ -4,8 +4,6 @@
 
 ### 🚀 Passionate Developer from the Philippines 🇵🇭
 
-<img src="https://komarev.com/ghpvc/?username=enmamaarin&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Front+End+Developer;Always+Learning+%F0%9F%8C%B1;Open+to+Collaborations+%F0%9F%A4%9D;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
 </div>
