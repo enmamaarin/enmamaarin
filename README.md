@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Enma
-### ✦ Full-Stack Developer ✦ Philippines 🇵🇭
+### ✦ Front-End Developer ✦ Philippines 🇵🇭
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;Clean+UI+%2B+Powerful+Backends;Always+Learning+%F0%9F%8C%B1;Open+for+Collaboration" />
 
@@ -11,12 +11,12 @@
 
 ## ✦ About Me
 
-- 📍 Philippines  
-- 🚀 Focus: **Full-Stack Development**
-- 🌱 Exploring: **Modern Architectures, UI/UX, Scalable Systems**
-- 🤝 Open to: **Collaboration & Open Source**
-- 💬 Ask me about: **Web, Mobile, Game Dev**
-- ⚡ Fun fact: `console.log()` is still my best friend  
+-  Philippines  
+-  Focus: **Front-End Development**
+-  Exploring: **Modern Architectures, UI/UX, Scalable Systems**
+-  Open to: **Collaboration & Open Source**
+-  Ask me about: **Web, Mobile, Game Dev**
+-  Fun fact: `console.log()` is still my best friend  
 
 ---
 
