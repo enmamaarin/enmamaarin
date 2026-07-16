@@ -16,7 +16,6 @@
 -  Exploring: **Modern Architectures, UI/UX, Scalable Systems, Full-Stack Development**
 -  Open to: **Collaboration & Open Source**
 -  Ask me about: **Mostly anything within my ability hehe**
--  Fun fact: logs are my best friends
 
 ---
 
