@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Enma
+# 👋 Hey, I'm Lenard
 ### ✦ Aspiring Front-End Developer ✦ Experienced Full-Stack Developer ✦ Philippines 🇵🇭
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;Clean+UI+%2B+Powerful+Backends;Always+Learning+%F0%9F%8C%B1;Open+for+Collaboration" />
